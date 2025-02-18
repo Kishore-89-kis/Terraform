@@ -17,3 +17,9 @@ frontend = "t3.micro"
 
 }
  }
+ variable "domain_name"{
+    default = "daws82s.online"
+ }
+ variable "zone_id" {
+    default = "Z0900054KDP6PKE6NP4R"
+}
